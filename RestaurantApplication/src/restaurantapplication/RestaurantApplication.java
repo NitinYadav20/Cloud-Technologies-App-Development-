@@ -28,7 +28,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Saranya
+ * @author Nitin
  */
 public class RestaurantApplication extends JFrame {
 
